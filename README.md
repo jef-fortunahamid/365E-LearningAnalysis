@@ -1,4 +1,4 @@
-# Analyzing Student Conversion and Engagement Metrics on the 365 E-Learning Platform
+# Analysing Student Conversion and Engagement Metrics on the 365 E-Learning Platform
 
 *(This project is from 365 Data Science. A Database Schema Script was provided to create the database.)*
 

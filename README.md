@@ -36,3 +36,41 @@ Ref: "student_info"."student_id" < "student_engagement"."student_id"
 
 Ref: "student_info"."student_id" < "student_purchases"."student_id"
 ```
+
+## Data Exploration
+### student_info Table
+```sql
+SELECT *
+FROM student_info
+LIMIT 10;
+```
+![image](https://github.com/jef-fortunahamid/365E-LearningAnalysis/assets/125134025/adc58d13-3db3-418a-a346-27f833c4c3aa)
+
+### student_engagement Table
+```sql
+SELECT *
+FROM student_engagement
+LIMIT 10;
+```
+![image](https://github.com/jef-fortunahamid/365E-LearningAnalysis/assets/125134025/a490cd49-019e-4b90-bb8b-4f2e2e711437)
+
+### student_purchases Table
+```sql
+SELECT *
+FROM student_purchases
+LIMIT 10;
+```
+![image](https://github.com/jef-fortunahamid/365E-LearningAnalysis/assets/125134025/3989b5c4-2865-4c0f-9a5b-b746694e33d5)
+
+The schema provided a clean database hence, no further cleaning has been done.
+
+## Task 1
+
+
+
+
+
+
+
+
+
